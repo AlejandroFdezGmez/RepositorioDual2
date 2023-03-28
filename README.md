@@ -1,2 +1,2 @@
 # RepositorioDual2
-Ejemplo
+Ejemplo de como se hace un ejemplo
